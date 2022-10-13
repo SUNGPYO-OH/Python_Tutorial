@@ -15,3 +15,10 @@
     - 2-1. 변수의 필요성
     - 2-2. 변수 이름 짓기
     
+## 실습(3) : [ 자료구조(DataStructure) ]
+### 자료구조에 대하여 이해하기
+    - 1. List
+    - 2. Tuple
+    - 3. Dictionary
+    - 4. Problem
+    
