@@ -1,4 +1,4 @@
-# Tutorial of Python (Alice)
+# Review of Alice's Educational Class
 
 ## 실습(1) : [ Colab Notebooks ]
 ### Colab을 활용한 Python 환경 구축 방법
